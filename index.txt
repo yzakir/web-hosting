@@ -1,0 +1,82 @@
+<html>
+<head>
+<title>Portfolio</title>
+<style>
+body {
+background-color:rgba(255,255,0,0.3);
+}
+h2{ color: #0000ff;}
+h3{ color: #ff00ff;}
+table, th, td { border: 2px solid green;
+  border-radius: 5px;}
+
+img{border: 4px solid black;
+border-radius: 75%;
+float: right;
+position: relative;
+display: block;
+padding: 5px;
+width: 125px;
+height: 125px;
+}
+</style>
+</head>
+<body>
+<img src= "IMG-20200526-WA0006.jpg" >
+<font size =4>
+08/01/2021
+</font>
+<h2><u>Y.Zakir Fakruddin</u></h2>
+<i>zakiryadiki@gmail.com</i><br>
+<i>F-11, Mahanadi EXT., IGNOU Campus, Maidan Garhi, South Delhi, Delhi-110068</i><br></p>
+<p><br>
+<br>
+<hr>
+<h2><u>Objective</U></h2>
+<ul>
+<li>To develop a software which can replace windows operating software. </li>
+<li>To work at some big MNC's as a cloud data manager. </li>
+</ul>
+<hr>
+<h2><u>Education Qualificaction</u></h2>
+<p><table align="center">
+<tr>
+<th><h3>Qualification</th>
+<th><h3>Institution</th>
+<th><h3>Year</th>
+<th><h3>CGPA/Percentage</th>
+</tr>
+<tr>
+<th>10</th>
+<th>S.T Mary's Public School</th>
+<th>2017</th>
+<th>10CGPA</th>
+</tr>
+<tr>
+<th>10+2</th>
+<th>Modern International School</th>
+<th>2019</th>
+<th>71%</th>
+</tr>
+<tr>
+<th>Semester-1</th>
+<th>Manav Rachna International Institute of Research and Studies</th>
+<th>2019-2020</th>
+<th>87.5%</th>
+</tr>
+<tr>
+<th>Semester-2</th>
+<th>Manav Rachna International Institute of Research and Studies</th>
+<th>2020</th>
+<th>83.4%</th>
+</tr>
+</table></p>
+<hr>
+<h2><u>Skills</u></h2>
+<ol>
+<li>Master at python language </li>
+<li>Learned basic c,c++ language</li>
+<li>Attended a ton of hackathon on Android, Machine learning and many more</li>
+</ol>
+</body>
+</html>
